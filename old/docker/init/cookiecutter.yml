@@ -1,0 +1,7 @@
+default_context:
+    full_name: "Hossam kandel"
+    email: "hossam20052@hotmail.com"
+    github_username: "hossamgbm"
+    app_name: "app"
+    project_name: "Flask SQL CI Docker"
+    project_short_description: "Docker example"
